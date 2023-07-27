@@ -40,6 +40,11 @@
 ***VISUALISE THE TRAINING METRICS WITH THE HELP OF TENSORBOARD**
 # PREDICTED IMAGES: 
 ![image](https://github.com/Tanwar-12/Traffic-Sign-Detection-/assets/110081008/377ad1ec-b2f2-44ff-9e27-e876ea0dbac3)
+# Test Video Demo
+
+https://github.com/Tanwar-12/Traffic-Sign-Detection-/assets/110081008/0dcb0ed0-869c-4b89-983b-b6a21ed0c7c5
+
+
 
 
 
