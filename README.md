@@ -8,6 +8,7 @@
 
 # DATA INFORMATION:
 * Total 3708 traffic sign images are present in 43 classes .
+* Total 2538 images for training and 701 images for validation present in 2 classes.
 * Create bounding boxes with the help of makesense.ai website.
   # Traffic Sign
   
