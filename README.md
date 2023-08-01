@@ -15,7 +15,7 @@
 ![image](https://github.com/Tanwar-12/Traffic-Sign-Detection-/assets/110081008/f4f4be99-cad2-4ac9-aa77-8d8082d90900)
 # DATA PREPRATION:
 *	Prepare folder structure that can be accept by YoloV5.
-* Total 3708 images for training and 352 images for validation present in 39 classes.
+* Total 3708 images for training and 352 images for validation present in 43 classes.
 * Create a bounding boxes with the help of label-img And makesense.ai website according to YoloV5.
   # STEPS TO USE YOLOV5
 * Cloning the YoloV5 file from official repository.
