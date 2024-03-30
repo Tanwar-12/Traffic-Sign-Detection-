@@ -1,5 +1,5 @@
 # 𝐓𝐑𝐀𝐅𝐅𝐈𝐂 𝐒𝐈𝐆𝐍 𝐃𝐄𝐓𝐄𝐂𝐓𝐈𝐎𝐍 𝐘𝐎𝐋𝐎𝐕5
-* Detect The Traffic Sign Using YoloV5
+**Detect The Traffic Sign Using YoloV5**
 
 # 𝐃𝐀𝐓𝐀 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍:
 **Data Collected from Roboflow website.**
