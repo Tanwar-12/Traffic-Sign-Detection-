@@ -1,4 +1,7 @@
 # 𝐓𝐑𝐀𝐅𝐅𝐈𝐂 𝐒𝐈𝐆𝐍 𝐃𝐄𝐓𝐄𝐂𝐓𝐈𝐎𝐍 𝐘𝐎𝐋𝐎𝐕5
+
+![TF](https://github.com/Tanwar-12/Traffic-Sign-Detection-/assets/110081008/1a2f807f-e09f-4304-beab-b2cd94540a01)
+
 **Detect The Traffic Sign Using YoloV5**
 
 # 𝐃𝐀𝐓𝐀 𝐂𝐎𝐋𝐋𝐄𝐂𝐓𝐈𝐎𝐍:
